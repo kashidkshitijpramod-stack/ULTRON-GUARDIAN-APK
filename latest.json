@@ -1,0 +1,8 @@
+{
+  "packageName": "org.ultron.guardian",
+  "versionCode": 1112,
+  "versionName": "0.10.0-update-dev+112",
+  "apkUrl": "https://github.com/kashidkshitijpramod-stack/ULTRON-GUARDIAN-APK/releases/download/guardian-112/guardian.apk",
+  "sha256": "6d59649775f06f834bba4dde432aaa837a434d737fdcc35021cab5bb9f6bfd1d",
+  "notes": "New Guardian features and fixes."
+}
