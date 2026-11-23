@@ -1,8 +1,8 @@
 {
   "packageName": "org.ultron.guardian",
-  "versionCode": 1114,
-  "versionName": "0.10.0-update-dev+114",
-  "apkUrl": "https://github.com/kashidkshitijpramod-stack/ULTRON-GUARDIAN-APK/releases/download/guardian-114/guardian.apk",
-  "sha256": "c242585e75e2eb82a898dd03afb41f44d7951b543e55f24a52ed9813c3d46b62",
+  "versionCode": 1117,
+  "versionName": "0.10.0-update-dev+117",
+  "apkUrl": "https://github.com/kashidkshitijpramod-stack/ULTRON-GUARDIAN-APK/releases/download/guardian-117/guardian.apk",
+  "sha256": "5f818f7d880da16527d5978358cf6844272b40fc310d17a431a3ac801d043104",
   "notes": "New Guardian features and fixes."
 }
